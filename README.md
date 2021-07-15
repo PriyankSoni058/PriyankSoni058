@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pataliya Priyank 
+- 👋 Hi, I’m Pataliya Priyank.
 - 👀 I’m interested in Python Developer.
 - 🌱 I’m currently learning Python,Java.
 - 💞️ I’m looking to collaborate with a growing company. 
