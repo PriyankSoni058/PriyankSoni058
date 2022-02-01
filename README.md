@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pataliya Priyank.
-- 👀 I’m interested in Python Developer.
-- 🌱 I’m currently learning Python,Java.
-- 💞️ I’m looking to collaborate with a growing company. 
+- 👀 I’m interested in Frontend Development.
+- 🌱 I’m currently learning React.JS.
 - 📫 you can contact me at
  Priyanksoni9333@gmail.com 
 
