@@ -6,6 +6,6 @@
  Priyanksoni9333@gmail.com 
 
 <!---
-PriyankSoni058/PriyankSoni058 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pataliya Priyank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
