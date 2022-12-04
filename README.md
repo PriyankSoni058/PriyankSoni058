@@ -3,7 +3,7 @@
 - 🌱 I’m Software Developer, specializing in the web development arena.
 - 💞️ I’m learning many new things like programming cycle , planning, designing and testing. No two days are same for me; my tasks may involve analyzing algorithms, alteting code , refactoring code , bugs fixing, brainstorming ideas or integrating new systems.
 - 📫 you can contact me at
- Priyanksoni9333@gmail.com / linkedin.com/in/priyank-pataliya-7242961a1
+ Priyanksoni9333@gmail.com / or < linkedin.com/in/priyank-pataliya-7242961a1 >
 
 <!---
 Pataliya Priyank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
